@@ -43,3 +43,4 @@ jobs:
     - name: Build Docker image
       run: |
         docker build -f ves-collector/src/docker/Dockerfile -t your-image-name:latest .
+#test
